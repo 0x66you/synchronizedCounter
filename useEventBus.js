@@ -20,6 +20,7 @@ Vue.component('counter1',{
         }
     }
 })
+
 Vue.component('counter2',{
     template:'#counter2UI',
     computed: {
