@@ -8,3 +8,5 @@ They are independent, simply change the src attribute URL in last line of index.
 <script src="./useVuex.js"></script>
 <script src="./useEventBus.js"></script>
 ```
+## License
+[MIT License](https://oss.ninja/mit/0x66you) © Yeh,Chun-Chen
